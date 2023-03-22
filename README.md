@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+A passionate Full Stack Developer from London, UK
 <!--
 **ChrisWarner94/ChrisWarner94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
