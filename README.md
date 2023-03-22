@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 A passionate Full Stack Developer from London, UK
+
+🔭 I’m currently working on adding features to Recipeasy an MVP I worked on during my time at Le Wagon
+
+🌱 I’m currently learning React
+
+📫 How to reach me: ChrisWarner0903@gmail.com
 <!--
 **ChrisWarner94/ChrisWarner94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
