@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A passionate Full Stack Developer from London, UK
+A Full Stack Developer from London, UK
 
 🔭 I’m currently working on adding features to Recipeasy an MVP I worked on during my time at Le Wagon
 
