@@ -2,10 +2,6 @@
 
 A Full Stack Developer from London, UK
 
-🔭 I’m currently working on adding features to Recipeasy an MVP I worked on during my time at Le Wagon
-
-🌱 I’m currently finishing off my latest rails project before moving on to tackling the .NET enviroment
-
 📫 How to reach me: ChrisWarner0903@gmail.com
 
 
