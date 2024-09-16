@@ -1,6 +1,6 @@
 Welcome to my GitHub profile! 👨‍💻
 
-I'm a passionate developer with a focus on building robust and elegant desktop applications using C#, WPF, and the .NET Framework. I enjoy working on software that enhances productivity, solves real-world problems, and is a pleasure to use.
+I'm a passionate developer with a focus on building robust and elegant desktop applications using C#, WPF, and the .NET Framework. I enjoy working on software that enhances productivity and helps to solve real world problems.
 
 🌱 What I'm Currently Learning:
 
